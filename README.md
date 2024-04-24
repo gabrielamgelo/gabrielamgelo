@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+My name is Gabriel, and I'm a data science student striving to increase my knowledge in the field of data science!
+
+Contact me: gabrielangelosiq@gmail.com
+
+
 <!--
 **Aqualungie/Aqualungie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
