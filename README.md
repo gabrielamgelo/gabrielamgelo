@@ -1,6 +1,33 @@
 ### Hi there 👋
 
-My name is Gabriel, and I'm a data science student striving to increase my knowledge in the field of data science!
+My name is Gabriel and I'm a data analyst! 
+
+🚀 About Me
+
+    🛠️ What I Do:
+    
+    I specialize in data validation, data cleaning, exploratory data analysis, data visualization, and business intelligence to help organizations make data-driven decisions.
+    
+    💡 Skills & Tools:
+        
+    • Programming: Python (Pandas, NumPy, Matplotlib, Seaborn, etc.)
+    • Databases: SQL (PostgreSQL)
+    • Visualization: Power BI, Tableau
+    • Soft Skills: Data storytelling, problem-solving, creativity, and critical thinking
+
+📂 Portfolio Projects
+
+Here you’ll find a curated collection of my work, including:
+
+    📊 Data Visualizations to tell compelling stories.
+    📈 Exploratory Data Analysis (EDA) for insightful patterns.
+    📑 Case Studies showcasing problem-solving in business contexts.
+
+🌟 What I’m Working On
+
+I’m currently focused on projects involving data cleaning and business intelligence to deepen my expertise and share meaningful contributions with the community.
+
+Feel free to explore my repositories and reach out if you’d like to collaborate or discuss data!
 
 Contact me: gabrielangelosiq@gmail.com
 
