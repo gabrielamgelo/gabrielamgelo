@@ -6,7 +6,8 @@ My name is Gabriel and I'm a data analyst!
 
     🛠️ What I Do:
     
-    I specialize in data validation, data cleaning, exploratory data analysis, data visualization, and business intelligence to help organizations make data-driven decisions.
+    I specialize in data validation, data cleaning, exploratory data analysis, data visualization, 
+    and business intelligence to help organizations make data-driven decisions.
     
     💡 Skills & Tools:
         
@@ -25,7 +26,8 @@ Here you’ll find a curated collection of my work, including:
 
 🌟 What I’m Working On
 
-I’m currently focused on projects involving data cleaning and business intelligence to deepen my expertise and share meaningful contributions with the community.
+I’m currently focused on projects involving data cleaning and business intelligence to deepen my 
+expertise and share meaningful contributions with the community.
 
 Feel free to explore my repositories and reach out if you’d like to collaborate or discuss data!
 
