@@ -12,8 +12,8 @@ My name is Gabriel and I'm a data analyst!
     💡 Skills & Tools:
         
     • Programming: Python (Pandas, NumPy, Matplotlib, Seaborn, etc.)
-    • Databases: SQL (PostgreSQL)
-    • Visualization: Power BI
+    • Databases: SQL (PostgreSQL, MySQL)
+    • Businnes Intelligence: Power BI
     • Soft Skills: Data storytelling, problem-solving, creativity, and critical thinking
 
 📂 Portfolio Projects
